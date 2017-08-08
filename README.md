@@ -23,7 +23,7 @@ provides a `Customer` class with the following functionality:
 * `hashCode()`
 * `toString()`
 * `copy()`
-* `component1()`, `component2()`, ..., for all properties (see [Data classes](data-classes.html))
+* `component1()`, `component2()`, ..., for all properties (see [Data classes](http://www.tellmehow.co/recyclerview%e2%80%8a-%e2%80%8adelegate-adapters-data-classes-kotlin/))
 
 
 ### Default values for function parameters
